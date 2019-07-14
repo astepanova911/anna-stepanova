@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gDoc.UI.Tests.API_Extensons
+namespace test.UI.Tests.API_Extensons
 {
     public class StoresFunctions
     {

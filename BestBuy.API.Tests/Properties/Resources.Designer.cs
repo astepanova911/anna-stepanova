@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace gDoc.UI.Tests.Properties {
+namespace test.UI.Tests.Properties {
     using System;
     
     
