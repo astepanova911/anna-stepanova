@@ -250,5 +250,3 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
-/gDoc.UI.Tests/TestCollection/ExpectedResult/MeetingFilter/AdvanceMeetingFilters_Old.xls
-/gDoc.UI.Tests/logs_and_screenshots/gDoc2
