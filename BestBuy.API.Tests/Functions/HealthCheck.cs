@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using System;
 
-namespace gDoc.UI.Tests.API_Extensons
+namespace test.UI.Tests.API_Extensons
 {
     public class HealthCheckFunctions
     {

@@ -1,6 +1,6 @@
 ﻿using BestBuy.API.Tests.API_Extensons;
 using BestBuy.API.Tests.Helpers;
-using gDoc.UI.Tests.API_Extensons;
+using test.UI.Tests.API_Extensons;
 using NUnit.Framework;
 using System;
 
